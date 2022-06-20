@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T14:13:41.743Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ZAZf3LUDHPdq36H6x6z7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T14:20:56.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="mceRyJq2xZc-SQerZ2Js" version="20.0.1" type="github">
   <diagram id="OVGxbTdLAXnqadV-Uxx-" name="Page-1">
     <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="DFfBJEe4F_XPDWJP51UQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#46495D;strokeColor=#788AA3;" edge="1" parent="1" source="DFfBJEe4F_XPDWJP51UQ-4" target="DFfBJEe4F_XPDWJP51UQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DFfBJEe4F_XPDWJP51UQ-4" value="&lt;ul&gt;&lt;li&gt;分布式流处理平台&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于发布订阅的消息队列&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#46495D;" vertex="1" parent="1">
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-4" value="&lt;ul&gt;&lt;li&gt;分布式流处理平台&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于发布订阅的消息队列&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#46495D;shadow=0;glass=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="93.75" width="230" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="DFfBJEe4F_XPDWJP51UQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#46495D;strokeColor=#788AA3;" edge="1" parent="1" source="DFfBJEe4F_XPDWJP51UQ-8" target="DFfBJEe4F_XPDWJP51UQ-12">
