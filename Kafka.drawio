@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T13:58:28.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="azctyfEwOjIxK4ytLhoD" type="github"><diagram id="OVGxbTdLAXnqadV-Uxx-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-20T14:11:57.596Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ItbcN31A60-2AfSEbGhA" version="20.0.1" type="github">
+  <diagram id="OVGxbTdLAXnqadV-Uxx-" name="Page-1">
+    <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-1" value="&lt;h1&gt;一、初识Kafka&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;" edge="1" parent="1" source="DFfBJEe4F_XPDWJP51UQ-3" target="DFfBJEe4F_XPDWJP51UQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-3" value="什么是Kafka？" style="text;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="40" y="103.75" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#46495D;strokeColor=#788AA3;" edge="1" parent="1" source="DFfBJEe4F_XPDWJP51UQ-4" target="DFfBJEe4F_XPDWJP51UQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-4" value="&lt;ul&gt;&lt;li&gt;分布式流处理平台&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;基于发布订阅的消息队列&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#788AA3;fillColor=#B2C9AB;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="220" y="93.75" width="230" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fontColor=#46495D;strokeColor=#788AA3;" edge="1" parent="1" source="DFfBJEe4F_XPDWJP51UQ-8" target="DFfBJEe4F_XPDWJP51UQ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-8" value="有什么用？" style="whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#B2C9AB;strokeColor=#788AA3;rounded=0;fontStyle=1;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="520" y="101.25" width="110" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DFfBJEe4F_XPDWJP51UQ-12" value="&lt;ul&gt;&lt;li&gt;系统间解耦&lt;/li&gt;&lt;li&gt;异步通信&lt;/li&gt;&lt;li&gt;削峰填谷&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#B2C9AB;strokeColor=#788AA3;rounded=0;fontStyle=1;align=left;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="710" y="93.75" width="170" height="66.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
